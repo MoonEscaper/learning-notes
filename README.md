@@ -7,4 +7,5 @@
 1. 修改 `notes/day-01.md` 并提交。
 2. 修改 `notes/day-02.md`，练习 `git diff` 和 `git restore --staged`。
 3. 用 `notes/conflict-practice.md` 练习冲突解决。
+4. This is a new line and a new change.
 
